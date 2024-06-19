@@ -1,6 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanguogege&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanguogege&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
