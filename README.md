@@ -8,4 +8,4 @@
 
 <br/>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sanguogege" /> </div>
+<div align="center"> <img src="[https://visitor-badge.glitch.me/badge?page_id=sanguogege](https://avatars.githubusercontent.com/u/25738532?v=4)" /> </div>
