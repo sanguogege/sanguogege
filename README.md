@@ -35,7 +35,9 @@
 
 
 <h1 align="center">📊 语言使用分布</h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanguogege&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanguogege&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="语言统计" />   
+</p>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
