@@ -42,8 +42,11 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanguogege&bg_color=ffffff)
 
 
+
+
+
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red" alt="visitors" />   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,50:00dbde,100:00c9ff&height=200&section=footer&text=🏆 莫愁前路无知己，天下谁人不识君&fontSize=60&fontAlign=50&fontAlignY=70&animation=twinkling" />
 </p>
 
 
