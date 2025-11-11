@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=sanguogege&fontSize=90&fontAlign=50&fontAlignY=30&desc=To%20%20Be%20%20Or%20%20How%20%20To%20%20Be&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=3000&color=0912F7&vCenter=true&width=900&lines=%E5%A4%A9%E4%B8%8A%E7%99%BD%E7%8E%89%E4%BA%AC%EF%BC%8C%E5%8D%81%E4%BA%8C%E6%A5%BC%E4%BA%94%E5%9F%8E%E3%80%82%E4%BB%99%E4%BA%BA%E6%8A%9A%E6%88%91%E9%A1%B6%EF%BC%8C%E7%BB%93%E5%8F%91%E5%8F%97%E9%95%BF%E7%94%9F%E3%80%82)](https://git.io/typing-svg)
-<br/>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=3000&color=0912F7&vCenter=true&width=&lines=%E5%A4%A9%E4%B8%8A%E7%99%BD%E7%8E%89%E4%BA%AC%EF%BC%8C%E5%8D%81%E4%BA%8C%E6%A5%BC%E4%BA%94%E5%9F%8E%E3%80%82%E4%BB%99%E4%BA%BA%E6%8A%9A%E6%88%91%E9%A1%B6%EF%BC%8C%E7%BB%93%E5%8F%91%E5%8F%97%E9%95%BF%E7%94%9F%E3%80%82" alt="Typing SVG" /></a></p>
+
 
 <h1 align="center">👨‍💻 基本信息</h1>
 
