@@ -1,21 +1,18 @@
 
-<div align="center"> <b>天上白玉京，十二楼五城。<b/> </div>
-<div align="center"> <b>仙人抚我顶，结发受长生。<b/> </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0912F7&vCenter=true&width=435&lines=%E5%A4%A9%E4%B8%8A%E7%99%BD%E7%8E%89%E4%BA%AC%EF%BC%8C%E5%8D%81%E4%BA%8C%E6%A5%BC%E4%BA%94%E5%9F%8E%E3%80%82)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0912F7&vCenter=true&width=435&lines=%E4%BB%99%E4%BA%BA%E6%8A%9A%E6%88%91%E9%A1%B6%EF%BC%8C%E7%BB%93%E5%8F%91%E5%8F%97%E9%95%BF%E7%94%9F%E3%80%82)](https://git.io/typing-svg)
 <br/>
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sanguogege&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
-
-<br/>
-
-<div style="display:flex;" align="center">
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=sanguogege)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanguogege)
 
 
- </div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
 
 
 
