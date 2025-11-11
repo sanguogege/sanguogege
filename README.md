@@ -14,7 +14,7 @@
 <h1 align="center">📝 个人博客</h1>
 <p align="center">
   <a href="https://sanguogege.netlify.app">
-    <img width="200" height="120" src="https://sanguogege.netlify.app/blog/OIP-C.png" />
+    <img width="200" height="120" src="https://github.com/sanguogege/blog/blob/main/pages/public/blog/OIP-D.png" />
   </a>
 </p>
 
