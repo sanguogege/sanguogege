@@ -11,6 +11,10 @@
 
 <p align="center">流浪在知识的海洋中的一位Coder</p>
 
+<p align="center">
+  <a align="center" href="https://sanguogege.netlify.app" target="_blank" rel="noopener noreferrer">个人博客</a>
+</p>
+
 <h1 align="center">🛠️ 开发工具</h1>
   <!-- 工具并排展示 -->
 <p align="center">
@@ -44,6 +48,7 @@
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanguogege&bg_color=ffffff)
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanguogege&left_color=green&right_color=red)
 
 
 
