@@ -9,15 +9,15 @@
 
 <h1 align="center">👨‍💻 基本信息</h1>
 
-<p align="center">流浪在知识的海洋中的一位Coder</p>
-<p align="center">一位正在成为全栈的前端工程师</p>
-
 <div align="center">
 
 [![个人博客](https://img.shields.io/badge/个人博客-sanguogege-green?style=flat-square)](https://sanguogege.netlify.app)
 [![Email](https://img.shields.io/badge/Email-sanguogege@qq.com-blue?style=flat-square&logo=email)](https://mail.qq.com/)
 
 </div>
+
+<p align="center">流浪在知识的海洋中的一位Coder</p>
+<p align="center">一位正在成为全栈的前端工程师</p>
 
 <h1 align="center">🛠️ 开发工具</h1>
   <!-- 工具并排展示 -->
