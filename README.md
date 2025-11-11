@@ -7,6 +7,38 @@
 
 <h1 align="center">👨‍💻 基本信息</h1>
 
+**流浪在知识的海洋中的一位Coder**
+
+
+<h1 align="center">🛠️ 开发工具、技术</h1>
+  <!-- 工具并排展示 -->
+<div style="display: flex; justify-content: center; gap: 50px; margin: 30px 0">
+    <div>
+        <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vscode,Visual Studio,,pycharm,git,linux,postman" />
+        </a>
+        </p>
+    </div>
+</div>
+
+
+<h1 align="center">💻 常用语言、框架</h1>
+<!-- 语言展示区 -->
+<div align="center">
+ <!-- 语言并排展示 -->
+  <div style="display: flex; justify-content: center; gap: 50px; margin: 30px 0">
+    <div>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,spring,vue" />
+        </a>
+      </p>
+    </div>
+
+
+
+
 ![My Stats](https://github-readme-stats.vercel.app/api?username=sanguogege)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanguogege)
