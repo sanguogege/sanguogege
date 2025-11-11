@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,50:00dbde,100:00c9ff&height=200&section=footer&text=🏆%20莫愁前路无知己，天下谁人不识君&fontSize=60&fontAlign=50&fontAlignY=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92fe9d,50:00dbde,100:00c9ff&height=200&section=footer&text=🏆%20莫愁前路无知己，天下谁人不识君&fontSize=40&fontAlign=50&fontAlignY=70&animation=twinkling" />
 </p>
 
 
