@@ -10,8 +10,10 @@
 <h1 align="center">👨‍💻 基本信息</h1>
 
 <p align="center">流浪在知识的海洋中的一位Coder</p>
+<p align="center">一位正在成为全栈的前端工程师</p>
 
 <h1 align="center">📝 个人博客</h1>
+
 <p align="center">
   <a href="https://sanguogege.netlify.app">
     <img width="200" height="120" src="https://github.com/sanguogege/blog/blob/main/pages/public/blog/OIP-D.png" />
@@ -19,10 +21,6 @@
 </p>
 
 
-
-<p align="center">
-  <a align="center" href="https://sanguogege.netlify.app" target="_blank" rel="noopener noreferrer">个人博客</a>
-</p>
 
 <h1 align="center">🛠️ 开发工具</h1>
   <!-- 工具并排展示 -->
