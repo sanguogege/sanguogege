@@ -18,30 +18,25 @@
   </a>
 </p>
 
-<h1 align="center">💻 常用语言</h1>
+<h1 align="center">💻 编程语言</h1>
 <!-- 语言展示区 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,cs,py,nodejs,bun,java" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,cs,py,nodejs,bun,java,php" />
   </a>
 </p>
 
-<h1 align="center">💻 框架</h1>
+<h1 align="center">🌟 框架及其他</h1>
 <!-- 语言展示区 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,vitest,c,vim" />
+    <img src="https://skillicons.dev/icons?i=solidjs,vue,angular,vite,vitest,tailwind" />
   </a>
 </p>
 
 
-
-
-
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=sanguogege)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanguogege)
+<h1 align="center">📊 语言使用分布</h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanguoegege&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
