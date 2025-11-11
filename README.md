@@ -11,6 +11,15 @@
 
 <p align="center">流浪在知识的海洋中的一位Coder</p>
 
+<h1 align="center">📝 个人博客</h1>
+<p align="center">
+  <a href="https://sanguogege.netlify.app">
+    <img width="200" height="120" src="https://sanguogege.netlify.app/blog/OIP-C.png" />
+  </a>
+</p>
+
+
+
 <p align="center">
   <a align="center" href="https://sanguogege.netlify.app" target="_blank" rel="noopener noreferrer">个人博客</a>
 </p>
@@ -46,10 +55,6 @@
 </p>
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanguogege&bg_color=ffffff)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanguogege&left_color=green&right_color=red)
-
 
 
 <p align="center">
