@@ -7,10 +7,16 @@
 
 <br/>
 
+<div style="display:flex;" align="center">
+
 ![My Stats](https://github-readme-stats.vercel.app/api?username=sanguogege)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanguogege)
+
+
+ </div>
+
 
 
 
