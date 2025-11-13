@@ -23,7 +23,7 @@
   <!-- 工具并排展示 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,rider,postman,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,rider,sublime,postman,git,linux,windows,mint" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 <!-- 语言展示区 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidjs,vue,angular,vite,vitest,tailwind,linux,md,mint,netlify,nginx" />
+    <img src="https://skillicons.dev/icons?i=solidjs,vue,angular,vite,vitest,tailwind,md,netlify,nginx,sqlite" />
   </a>
 </p>
 
