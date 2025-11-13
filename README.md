@@ -39,7 +39,7 @@
 <!-- 语言展示区 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidjs,vue,angular,vite,vitest,tailwind" />
+    <img src="https://skillicons.dev/icons?i=solidjs,vue,angular,vite,vitest,tailwind,linux,md,mint,netlify,nginx" />
   </a>
 </p>
 
