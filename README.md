@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![个人博客](https://img.shields.io/badge/个人博客-sanguogege-green?style=flat-square)](https://sanguogege.netlify.app)
+[![个人博客](https://img.shields.io/badge/个人博客-sanguogege-green?style=flat-square&_blank)](https://sanguogege.netlify.app)
 [![Email](https://img.shields.io/badge/Email-sanguogege@qq.com-blue?style=flat-square&logo=email)](https://mail.qq.com/)
 
 </div>
