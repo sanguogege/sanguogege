@@ -13,9 +13,9 @@
 
 <div style="display:flex;justify-content: center;" align="center">
 
-<a href="https://sanguogege.netlify.app" target="_block"><img src="https://img.shields.io/badge/个人博客-sanguogege-green"/></a>
+<a href="https://sanguogege.netlify.app" target="_blank"><img src="https://img.shields.io/badge/个人博客-sanguogege-green"/></a>
 &emsp;
-<a href="https://mail.qq.com/"  target="_block"><img src="https://img.shields.io/badge/Email-sanguogege@qq.com-blue?style=flat-square&logo=email"/></a>
+<a href="https://mail.qq.com/"  target="_blank"><img src="https://img.shields.io/badge/Email-sanguogege@qq.com-blue?style=flat-square&logo=email"/></a>
 
 
 </div>
