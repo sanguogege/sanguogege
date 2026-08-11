@@ -44,9 +44,7 @@
 
 
 <h1 align="center">📊 语言使用分布</h1>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanguogege&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="语言统计" />   
-</p>
+
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanguogege&bg_color=000)
 
