@@ -46,7 +46,7 @@
 <h1 align="center">📊 语言使用分布</h1>
 
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanguogege&bg_color=000)
+
 
 
 <p align="center">
